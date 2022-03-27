@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhenYonathan
 - 👀 I’m interested in Web development and more
-- 🌱 I’m currently learning Symfony and React
+- 🌱 I’m currently learning Symfony and Django
 - 💞️ I’m looking to collaborate on web sites
 - 📫 I'm on Phenixel.fr
 
