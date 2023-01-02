@@ -32,4 +32,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phenixel&show_icons=true&locale=en&layout=compact" alt="phenixel" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=phenixel&show_icons=true&locale=en" alt="phenixel" />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phenixel&locale=fr)](https://git.io/streak-stats)
+
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="[https://streak-stats.demolab.com?user=DenverCoder1](https://github-readme-streak-stats.herokuapp.com?user=phenixel&locale=fr)"/></a>
+</p>
